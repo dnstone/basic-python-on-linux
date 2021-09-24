@@ -8,3 +8,5 @@ You can use this to demonstrate:
 * How you can recieve input from STDIN
 * How arguments are different than STDIN
 
+Requirements:
+* Python 3.6 or newer
